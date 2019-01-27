@@ -1,1 +1,4 @@
 This is my first git Java project
+Youtube is helpful in many places, especially in programming. 
+
+I thank Jesus for the assistance which I am getting from all over the net.
